@@ -11,7 +11,6 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 - IBM Cybersecurity Analyst (Coursera) — in progress
 - TryHackMe — Pre-Security path — Completed*
 - TryHackMe — SOC Level 1 — in progress
-- Google Project Management — in progress
 
 ## Skills I'm building
 `Python` `Linux` `SIEM` `Wireshark` `Nmap` `Incident Response`
@@ -19,8 +18,6 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 
 ## My learning repos
 - ctf-writeups — TryHackMe rooms and CTF walkthroughs
-- security-scripts — Python tools I build while learning
-- home-lab-notes — my VirtualBox lab setup and experiments
 - study-notes — concepts I learn daily, in my own words
 
 *Day 1 of my cybersecurity journey — June 2026*
