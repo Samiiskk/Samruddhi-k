@@ -9,7 +9,7 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 
 ## What I'm learning right now :
 - IBM Cybersecurity Analyst (Coursera) — in progress
-- TryHackMe — Pre-Security path - Completed*
+- TryHackMe — Pre-Security path — Completed*
 - TryHackMe — SOC Level 1 — in progress
 - Google Project Management — in progress
 
@@ -24,4 +24,5 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 - study-notes — concepts I learn daily, in my own words
 
 *Day 1 of my cybersecurity journey — June 2026*
+
 *Goal: SOC Analyst role in 90 days*
