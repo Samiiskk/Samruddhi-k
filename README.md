@@ -9,7 +9,7 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 
 ## What I'm learning right now :
 - IBM Cybersecurity Analyst (Coursera) — in progress
-- TryHackMe — Pre-Security path — Completed*
+- TryHackMe — Pre-Security path — in progress
 - TryHackMe — SOC Level 1 — in progress
 - Cybersecurity Fundamentals with Cisco Tools — in progress
 - Let's Defend — SOC Analyst pathway — started
