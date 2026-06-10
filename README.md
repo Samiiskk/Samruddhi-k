@@ -11,9 +11,9 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 - IBM Cybersecurity Analyst (Coursera) — in progress
 - TryHackMe — Pre-Security path — in progress
 - TryHackMe — SOC Level 1 — in progress
-- Cybersecurity Fundamentals with Cisco Tools — in progress
+- Cybersecurity Fundamentals with Cisco Tools — Module 3 ✅ Complete
 - Let's Defend — SOC Analyst pathway — started
-  
+   
 ## Skills I'm building
 `Python` `Linux` `SIEM` `Wireshark` `Nmap` `Incident Response`
 `Threat Intelligence` `Network Security` `SQL` `Bash`
