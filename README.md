@@ -2,17 +2,24 @@
 
 **Cybersecurity learner | Aspiring SOC Analyst | IBM Certified (in progress)**
 
-Actively learning Cybersecurity with a goal of landing a SOC Analyst role.
-Cybersecurity / SOC Analyst. Documenting everything here.
+- M.S. Computer Science Student
+- Aspiring SOC Analyst
+- Passionate about Threat Detection, SIEM, Log Analysis, and Network Security
+
+I am a Computer Science graduate with a Minor in Cybersecurity, currently pursuing a Master's degree and building practical cybersecurity skills through hands-on labs, projects, and security challenges.
+
+- Documenting everything here.
 
 ---
+## Currently Learning : 
+- IBM Cybersecurity Analyst Professional Certificate (In Progress)
+- TryHackMe SOC Level 1 (In Progress)
+- Cisco Cybersecurity Fundamentals
+- Let's Defend SOC Analyst Pathway
 
-## What I'm learning right now :
-- IBM Cybersecurity Analyst (Coursera) — in progress
-- TryHackMe — Pre-Security path — Completed
-- TryHackMe — SOC Level 1 — in progress
-- Cybersecurity Fundamentals with Cisco Tools — Module 3 ✅ Complete
-- Let's Defend — SOC Analyst pathway — started
+## Completed :
+- TryHackMe Pre Security Path
+- IBM Operating Systems: Overview, Administration, and Security 
    
 ## Skills I'm building
 `Python` `Linux` `SIEM` `Wireshark` `Nmap` `Incident Response`
@@ -22,6 +29,7 @@ Cybersecurity / SOC Analyst. Documenting everything here.
 - ctf-writeups — TryHackMe rooms and CTF walkthroughs
 - study-notes — concepts I learn daily, in my own words
 
-*Day 1 of my cybersecurity journey — June 2026*
+## Goal :
+To build the skills and practical experience required for a Security Operations Center (SOC) Analyst role and contribute to protecting organizations from cyber threats.
 
-*Goal: SOC Analyst role in 90 days*
+- Open to internships, entry-level SOC Analyst opportunities, and cybersecurity collaborations.
