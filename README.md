@@ -14,13 +14,14 @@ I am a Computer Science graduate with a Minor in Cybersecurity, currently pursui
 ## Currently Learning : 
 - IBM Cybersecurity Analyst Professional Certificate (In Progress)
 - TryHackMe SOC Level 1 (In Progress)
-- Cisco Cybersecurity Fundamentals
 - Let's Defend SOC Analyst Pathway
-
+- AI security Pathway
+  
 ## Completed :
 - TryHackMe Pre Security Path
 - IBM Operating Systems: Overview, Administration, and Security 
-   
+- Cybersecurity Fundamentals with Cisco Tools
+  
 ## Skills I'm building
 `Python` `Linux` `SIEM` `Wireshark` `Nmap` `Incident Response`
 `Threat Intelligence` `Network Security` `SQL` `Bash`
